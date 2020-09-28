@@ -24,7 +24,7 @@ Run npm i @metasys96/react-native-custom-table –save
 
 ## Screenshot
 
-<img  src="https://github.com/metasys96/CustomTable/blob/master/screenshot/custom-table.png?raw=true"  width="800"  height="600"/>
+<img  src="https://github.com/metasys96/CustomTable/blob/master/screenshot/custom-table.png?raw=true"  width="700"  height="700"/>
 
 **Getting started**
 Add @metasys96/react-native-custom-table to your JS file.
